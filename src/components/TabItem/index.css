@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.tabItem {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100%;
+}
+.tabBtn {
+  border: none;
+  background-color: transparent;
+}
+.tabTxt {
+  color: #7b8794;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: Bree Serif;
+  
+  
+}
+.active {
+  color: #2563eb;
+  text-decoration: underline;
+  
+}
